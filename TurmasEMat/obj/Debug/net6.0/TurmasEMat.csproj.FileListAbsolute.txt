@@ -1,0 +1,15 @@
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\bin\Debug\net6.0\TurmasEMat.exe
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\bin\Debug\net6.0\TurmasEMat.deps.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\bin\Debug\net6.0\TurmasEMat.runtimeconfig.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\bin\Debug\net6.0\TurmasEMat.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\bin\Debug\net6.0\TurmasEMat.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.AssemblyInfo.cs
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\refint\TurmasEMat.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\TurmasEMat.genruntimeconfig.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\TurmasEMat\obj\Debug\net6.0\ref\TurmasEMat.dll

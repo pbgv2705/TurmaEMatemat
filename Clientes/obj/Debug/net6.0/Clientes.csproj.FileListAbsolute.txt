@@ -1,0 +1,15 @@
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfo.cs
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\bin\Debug\net6.0\Clientes.exe
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\bin\Debug\net6.0\Clientes.deps.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\bin\Debug\net6.0\Clientes.runtimeconfig.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\bin\Debug\net6.0\Clientes.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\bin\Debug\net6.0\Clientes.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\refint\Clientes.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\Clientes.genruntimeconfig.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Clientes\obj\Debug\net6.0\ref\Clientes.dll
