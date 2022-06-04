@@ -1,0 +1,5 @@
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Turmas\obj\Debug\net6.0\Turmas.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Turmas\obj\Debug\net6.0\Turmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Turmas\obj\Debug\net6.0\Turmas.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Turmas\obj\Debug\net6.0\Turmas.AssemblyInfo.cs
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Turmas\obj\Debug\net6.0\Turmas.csproj.CoreCompileInputs.cache

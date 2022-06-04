@@ -1,0 +1,15 @@
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.AssemblyInfo.cs
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\bin\Debug\net6.0\Certidao.exe
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\bin\Debug\net6.0\Certidao.deps.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\bin\Debug\net6.0\Certidao.runtimeconfig.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\bin\Debug\net6.0\Certidao.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\bin\Debug\net6.0\Certidao.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\refint\Certidao.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\Certidao.genruntimeconfig.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Certidao\obj\Debug\net6.0\ref\Certidao.dll

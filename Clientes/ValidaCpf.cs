@@ -1,8 +1,4 @@
-﻿//using DomainExceptions;
-
-using Clientes.Exceptions;
-
-namespace Clientes
+﻿namespace Clientes
 {
     public class ValidaCpf
     {
@@ -13,22 +9,22 @@ namespace Clientes
             this.Cpf = cpf;
         }
 
-        public bool IsCpf(long cpf) {
-
+        public string IsCpf(long cpf)
+        {
             int[] multip1 = new int[9] { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
             int[] multip2 = new int[10] { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
 
-            string tempCpf = "", strCpf = "";
+            string tempCpf = "", strCpf = "", erroCpf = "";
             string digito, digito1;
             int soma;
             int resto;
             bool diferentes = false;
-            strCpf = Cpf.ToString();  
+            strCpf = Cpf.ToString();
             strCpf = strCpf.Trim();
             strCpf = strCpf.Replace(".", "").Replace("-", "");
-            
+
             if (strCpf.Length != 11)
-                throw new DomainException(") CPF deve ter exatamente 11 digitos");
+                erroCpf = strCpf + " - O CPF deve ter exatamente 11 digitos";
 
             tempCpf = strCpf.Substring(0, 9);
             soma = 0;
@@ -42,15 +38,14 @@ namespace Clientes
                 if (digito1 != test)
                 {
                     diferentes = true;
-                   // Console.WriteLine("digito1: " + digito1 + ", tempCpf: " + strCpf[i].ToString());
                     break;
                 }
             }
             if (!diferentes)
             {
-                return false;
+                erroCpf = strCpf + " - não válido. Deve ter digitos diferentes";
+                return erroCpf;
             }
-
 
             for (int i = 0; i < 9; i++)
                 soma += int.Parse(tempCpf[i].ToString()) * multip1[i];
@@ -61,7 +56,7 @@ namespace Clientes
             else
                 resto = 11 - resto;
             digito = resto.ToString();
-            tempCpf = tempCpf + digito;
+            tempCpf += digito;
             soma = 0;
             for (int i = 0; i < 10; i++)
                 soma += int.Parse(tempCpf[i].ToString()) * multip2[i];
@@ -70,16 +65,18 @@ namespace Clientes
                 resto = 0;
             else
                 resto = 11 - resto;
-            digito = digito + resto.ToString();
-            tempCpf = tempCpf + resto.ToString();
+            digito += resto.ToString();
+            tempCpf += resto.ToString();
             if (Cpf == long.Parse(tempCpf))
             {
-               // Console.WriteLine(tempCpf + ", " + Cpf + " true");
-                return true;
+                erroCpf = "";
+                return erroCpf;
             }
             else
-               // Console.WriteLine(tempCpf + ", " + Cpf + " false" );
-            return false;
+            {
+                erroCpf = strCpf + " não é válido";
+                return erroCpf;
+            }   
         }
     }
 }
