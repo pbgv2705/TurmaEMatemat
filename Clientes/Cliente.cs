@@ -1,5 +1,4 @@
-﻿
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 namespace Clientes
 {
@@ -43,17 +42,10 @@ namespace Clientes
             if (!(erro_cpf.Equals(str_vazia)))
             {
                 Erros[1] = erro_cpf;
-                //if (erro_cpf.Equals(str_vazia))
-                //{
-                //    Erros[1] = CPF + " - O CPF não é válido";
-                //}
-                //else
-                //    Erros[1] += " - O CPF não é válido";
             }
             else
                 Erros[1] = "";
 
-            // Comparar strings
             if (Erros[2].Equals(str_pto))
             {
                 Erros[2] = "";
@@ -65,7 +57,7 @@ namespace Clientes
             }
 
             Regex rendex = new System.Text.RegularExpressions.Regex(@"^\d+,\d{2}$");
-            // No funciona 
+            // No funciona. Não consegui o erro da regex.
             if (!rendex.IsMatch(RendaMensal.ToString()))
             {
                 Erros[3] = RendaMensal + " - Renda Mensal incorreta. Favor indicar vírgula e 2 casas decimais";

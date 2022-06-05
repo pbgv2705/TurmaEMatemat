@@ -1,86 +1,42 @@
 ﻿using Turmas;
-
 public class Program
 {
     public static void Main(string[] args)
     {
-        string lancarProva = "";
+        string prova1 = "P1";
+        string prova2 = "P2";
+        int matr = 0;
         Console.WriteLine("Bem-Vindo ao Módulo de Turmas!");
        
-
         var nome1 = "Maria";
-        var matr1 = "Quimica";
+        var matr1 = 080020;
 
         var aluno1 = new Aluno(nome1, matr1);
 
         var nome2 = "Fernando";
-        var matr2 = "Biologia";
+        var matr2 = 080022;
         var aluno2 = new Aluno(nome2, matr2);
 
         Turma t1 = new Turma();
-        Turma t2 = new Turma();
 
         t1.InserirAluno(aluno1);
-        t2.InserirAluno(aluno2);
-        t1.InserirAluno(new Aluno(nome2, matr2));
+        t1.InserirAluno(aluno2);
+        t1.InserirAluno(new Aluno("João", 080037, 8.4, 7.3));
+        t1.InserirAluno(new Aluno("Rodrigo", 090072, 9, 7));
+        t1.InserirAluno(new("Nayara", 090048, 6.7, 8.2 ));
+        t1.InserirAluno(new("Antonio", 090053, 7.8, 4.5));
+        t1.InserirAluno(new("Luiza", 090057, 6.8, 8.5));
+        
+        t1.LancarNota(aluno1, 8, prova1);
+        t1.LancarNota(aluno1, 7.8, prova2);
+        t1.LancarNota(aluno2, 7.5, prova1);
+        t1.LancarNota(aluno2, 8, prova2);
 
-        t1.LancarNota(matr, p1);
+        t1.ImprimirDados();
 
-        //        Console.Write("Deseja inserir um novo aluno? (S/N): ");
-        //        string novo = Console.ReadLine();
+        t1.RemoverAluno(aluno2);
+        t1.ImprimirDados();
 
-        //        if (novo == "S" || novo == "s")
-        //        {
-        //            Console.Write("Favor indicar nome do aluno: ");
-        //            string novoAluno = Console.ReadLine();
-        //            Console.WriteLine("Favor indicar matrícula: ");
-        //            string novaMatric = Console.ReadLine();
-        //            // var turma = new Turma(dalunos);
-
-        //            bool inserirNovo = Turma.InserirAluno(aluno1);
-        //            if (inserirNovo)
-        //                Console.WriteLine("O aluno já existe na turma. Não pode ser adicionado");
-        //            else
-        //                Console.WriteLine("Aluno inserido na turma com sucesso");
-        //        }
-
-        //        Console.Write("Deseja remover um aluno da turma? (S/N): ");
-        //        string remover = Console.ReadLine();
-
-        //        if (remover == "S" || remover == "s")
-        //        {
-        //            Console.Write("Favor indicar nome do aluno: ");
-        //            string novoAluno = Console.ReadLine();
-        //            //Console.WriteLine("Favor indicar matrícula: ");
-        //            //string novaMatric = Console.ReadLine();
-
-        //            bool inserirNovo = Turma.RemoverAluno(aluno1);
-        //            if (inserirNovo)
-        //                Console.WriteLine("O aluno foi removido com sucesso");
-        //            else
-        //                Console.WriteLine("Aluno não existe na turma. Não pode ser removido");
-        //        }
-        //        Console.Write("Deseja lançar notas para o aluno? (S/N: ");
-        //        lancarProva = Console.ReadLine();
-        //        if (lancarProva == "S" || lancarProva == "s")
-        //        {
-        //            Console.Write("Favor indicar o nome do aluno: ");
-        //            string nome3 = Console.ReadLine();
-        //            Console.Write("Favor indicar a matrícula: ");
-        //            string matr3 = Console.ReadLine();
-        //            Console.Write("Favor indicar Prova 1: ");
-        //            double p1 = double.Parse(Console.ReadLine());
-        //            Turma.LancarNota(p1);
-        //            Console.Write("Favor indicar Prova 2: ");
-        //            double p2 = double.Parse(Console.ReadLine());
-        //            Turma.LancarNota(p1);
-        //        }
-
-
-        //        Turma.ImprimirDados();
-
-
-
-
+        Console.WriteLine(t1.ImprimEstadisticas()); 
     }
 }

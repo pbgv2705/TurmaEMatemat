@@ -74,7 +74,7 @@
             }
             else
             {
-                erroCpf = strCpf + " não é válido";
+                erroCpf = strCpf + " - não é válido";
                 return erroCpf;
             }   
         }
