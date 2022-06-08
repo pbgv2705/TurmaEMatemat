@@ -1,0 +1,15 @@
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\bin\Debug\net6.0\CarrosEMotores.exe
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\bin\Debug\net6.0\CarrosEMotores.deps.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\bin\Debug\net6.0\CarrosEMotores.runtimeconfig.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\bin\Debug\net6.0\CarrosEMotores.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\bin\Debug\net6.0\CarrosEMotores.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.AssemblyInfo.cs
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\refint\CarrosEMotores.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\CarrosEMotores.genruntimeconfig.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\CarrosEMotores\obj\Debug\net6.0\ref\CarrosEMotores.dll

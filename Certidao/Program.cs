@@ -5,7 +5,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
         Console.WriteLine("Bem-vindo ao Módulo de Certidão de Nascimento");
         Console.WriteLine("__________________________________________________________________________");
         var nome1 = "Maria Rodriguez";
