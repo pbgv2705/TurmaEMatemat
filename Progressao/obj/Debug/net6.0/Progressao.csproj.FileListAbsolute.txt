@@ -1,0 +1,15 @@
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\bin\Debug\net6.0\Progressao.exe
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\bin\Debug\net6.0\Progressao.deps.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\bin\Debug\net6.0\Progressao.runtimeconfig.json
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\bin\Debug\net6.0\Progressao.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\bin\Debug\net6.0\Progressao.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.csproj.AssemblyReference.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.AssemblyInfoInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.AssemblyInfo.cs
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\refint\Progressao.dll
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.pdb
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\Progressao.genruntimeconfig.cache
+C:\Users\Paula\Documents\Unirio\TurmasEMat\Progressao\obj\Debug\net6.0\ref\Progressao.dll

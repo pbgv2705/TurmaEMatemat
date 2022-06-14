@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Certidao", "Certidao\Certid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursosETurmas", "CursosETurmas\CursosETurmas.csproj", "{9160CD24-9F1C-4DBC-B63E-52A2782D9015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrosEMotores", "CarrosEMotores\CarrosEMotores.csproj", "{261F3F43-47BF-4934-87FC-2C3A3FCE52F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarrosEMotores", "CarrosEMotores\CarrosEMotores.csproj", "{261F3F43-47BF-4934-87FC-2C3A3FCE52F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progressao", "Progressao\Progressao.csproj", "{463A8811-EB17-4869-8F22-5BB795169616}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{261F3F43-47BF-4934-87FC-2C3A3FCE52F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{261F3F43-47BF-4934-87FC-2C3A3FCE52F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{261F3F43-47BF-4934-87FC-2C3A3FCE52F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463A8811-EB17-4869-8F22-5BB795169616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463A8811-EB17-4869-8F22-5BB795169616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463A8811-EB17-4869-8F22-5BB795169616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463A8811-EB17-4869-8F22-5BB795169616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
