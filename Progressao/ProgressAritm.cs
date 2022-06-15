@@ -18,7 +18,8 @@
         public string PA (int primeiro, int razao, int nroIterac) 
         {
             int proximoValor = primeiro;
-            string serie = $"Progressão Aritmetica (inicia {primeiro}, razão {razao}, e {nroIterac} iterações): \n \n " + proximoValor.ToString();
+            string serie = $"Progressão Aritmetica (inicia {primeiro}, razão {razao}, e {nroIterac} iterações): \n \n " +
+                proximoValor.ToString();
             int proxVal = 0;
             for (int i = 1; i < nroIterac; i++)
             {
@@ -27,8 +28,11 @@
             }
             return serie;
         }
-        
-
+        public override int TermoAt(int posicao)
+        {
+            int termo = Primeiro + (posicao - 1) * Razao;
+            return termo;
+        }
     }
 }
 

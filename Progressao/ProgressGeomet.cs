@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Progressao
+﻿namespace Progressao
 {
     internal class ProgressGeomet : Progress
     {
@@ -21,10 +15,11 @@ namespace Progressao
             }
         }
 
-        public string PA(int primeiro, int razao, int nroIterac)
+        public string PG(int primeiro, int razao, int nroIterac)
         {
             int proximoValor = primeiro;
-            string serie = $"Progressão Aritmetica (inicia {primeiro}, razão {razao}, e {nroIterac} iterações): \n \n " + proximoValor.ToString();
+            string serie = $"Progressão Geométrica (inicia {primeiro}, razão {razao}, e {nroIterac} iterações): \n \n " +
+                proximoValor.ToString();
             int proxVal = 0;
             for (int i = 1; i < nroIterac; i++)
             {
@@ -32,6 +27,11 @@ namespace Progressao
                 serie += ", " + proxVal.ToString();
             }
             return serie;
+        }
+        public override int TermoAt(int posicao)
+        {
+            int termo = Convert.ToInt32(Primeiro * Math.Pow(Razao, (posicao - 1)));
+            return termo;
         }
     }
 }
